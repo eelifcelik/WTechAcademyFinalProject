@@ -7,14 +7,14 @@
 
 Bu repository, SistersLab'in Toplum Gönüllüleri Vakfı [TOG](https://www.tog.org.tr/en/) tarafından desteklenen "Women in Tech Academy" projesi için harzırlanmış olan bitirme projesini içerir. Proje 2003-2022 yılları arasındaki National Basketball Association yapılmış olan turnuvalar içerisindeki verilerinin analizini içermektedir. Bu veri seti genel olarak 5 ayrı cvs dosyasından oluşmaktadır. Veriler içerisinde oyun, oyun detayları, sıralamalar, oyuncular ve takımlar yer almaktadır, verilere [buradan](https://github.com/eelifcelik/WTechAcademyFinalProject/tree/main/NBA-Datas) erişebilirsiniz.   
 
-<br> <br> 
+<br> 
 
 ## Proje İçerisinde Kullanılan Kütüphaneler
 - Numpy
 - Pandas
 - Matplotlib
 
-<br> <br> 
+<br> 
 
 ## Proje İçeriği
 Proje içerisinde öncelikle detaylı bir şekilde verisetleri hakkında bilgiler elde edilmiş, sonrasında da bu bilgiler dahilinde analizler yapılmıştır.
@@ -30,7 +30,7 @@ Proje içerisinde öncelikle detaylı bir şekilde verisetleri hakkında bilgile
 - Ev Sahibi Takımın Asistlerine Göre Kazanma Durumu
 - Oyunlar ve Oyun detayları verileri içerisindeki korelasyon 
 
-<br> <br> 
+<br> 
 
 ## Ekran Görüntüleri
 
