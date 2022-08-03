@@ -1,4 +1,4 @@
-# NBA DATA ANALYSIS
+# NBA DATA ANALYSIS :basketball:
 
 ![Alt text](https://d1nnrx9kca53zl.cloudfront.net/images/2020/4/21/20200421_Baylor_MBB_Draftees_Web_Header.jpg )
 <br> 
